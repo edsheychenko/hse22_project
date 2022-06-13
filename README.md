@@ -251,36 +251,31 @@ IMVTNDPQGAPYITLTGQALSLAENKVPSGHQLAIFLSLSDSQTVAHAVVVLEAR--------PE
             <td rowspan=5>Cluster #1</td>
             <td rowspan=5>5</td>
             <td rowspan=1>WP_066767018.1</td>
-            <td rowspan=1>Bifunctional phosphoribosylaminoimidazolecarboxamide
-            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>transcription antitermination factor NusB</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>884, 38833, 3428</td>
         </tr>
         <tr>
             <td rowspan=1>WP_013045040.1</td>
-            <td rowspan=1>Bifunctional phosphoribosylaminoimidazolecarboxamide
-            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>transcription antitermination protein NusB</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>752, 8922, 784, 2752</td>
         </tr>
         <tr>
             <td rowspan=1>WP_106874893.1</td>
-            <td rowspan=1>bifunctional phosphoribosylaminoimidazolecarboxamide
-            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>transcription antitermination protein NusB</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>908</td>
         </tr>
         <tr>
             <td rowspan=1>WP_011282132.1</td>
-            <td rowspan=1>bifunctional phosphoribosylaminoimidazolecarboxamide
-            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>transcription antitermination protein NusB</td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
         <tr>
             <td rowspan=1>WP_085783692.1</td>
-            <td rowspan=1>bifunctional phosphoribosylaminoimidazolecarboxamide
-            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>transcription antitermination protein NusB</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>784</td>
         </tr>
@@ -290,31 +285,31 @@ IMVTNDPQGAPYITLTGQALSLAENKVPSGHQLAIFLSLSDSQTVAHAVVVLEAR--------PE
             <td rowspan=5>Cluster #2</td>
             <td rowspan=5>5</td>
             <td rowspan=1>WP_066766633.1</td>
-            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>MBL fold metallo-hydrolase</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>907, 980, 27872, 1515</td>
         </tr>
         <tr>
             <td rowspan=1>WP_013045233.1</td>
-            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>MBL fold metallo-hydrolase </td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>948</td>
         </tr>
         <tr>
             <td rowspan=1>WP_106874031.1</td>
-            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>MBL fold metallo-hydrolase </td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>583</td>
         </tr>
         <tr>
             <td rowspan=1>WP_011282101.1</td>
-            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>MBL fold metallo-hydrolase </td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
         <tr>
             <td rowspan=1>WP_085783546.1</td>
-            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>MBL fold metallo-hydrolase </td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>2752, 4914</td>
         </tr>
@@ -324,31 +319,31 @@ IMVTNDPQGAPYITLTGQALSLAENKVPSGHQLAIFLSLSDSQTVAHAVVVLEAR--------PE
             <td rowspan=5>Cluster #3</td>
             <td rowspan=5>5</td>
             <td rowspan=1>WP_066775133.1</td>
-            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>30S ribosomal protein S12</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>883</td>
         </tr>
         <tr>
             <td rowspan=1>WP_013047256.1</td>
-            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>30S ribosomal protein S12</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>12723</td>
         </tr>
         <tr>
             <td rowspan=1>WP_106874161.1</td>
-            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>30S ribosomal protein S12</td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
         <tr>
             <td rowspan=1>WP_006996807.1</td>
-            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>30S ribosomal protein S12</td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
         <tr>
             <td rowspan=1>WP_085784875.1</td>
-            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>30S ribosomal protein S12</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>1820, 16770, 948, 783</td>
         </tr>
@@ -357,32 +352,32 @@ IMVTNDPQGAPYITLTGQALSLAENKVPSGHQLAIFLSLSDSQTVAHAVVVLEAR--------PE
         <tr>
             <td rowspan=5>Cluster #4</td>
             <td rowspan=5>5</td>
-            <td rowspan=1>WP_066775133.1</td>
-            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>WP_066768774.1</td>
+            <td rowspan=1>Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>980, 883, 38833</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_013047256.1</td>
-            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>WP_013046211.1</td>
+            <td rowspan=1>Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>38833, 1430, 762</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_106874161.1</td>
-            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>WP_106874551.1</td>
+            <td rowspan=1>Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>980</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_006996807.1</td>
-            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>WP_006997330.1</td>
+            <td rowspan=1>Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha</td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_085784875.1</td>
-            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>WP_085784706.1</td>
+            <td rowspan=1>Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>3428, </td>
         </tr>
@@ -391,32 +386,32 @@ IMVTNDPQGAPYITLTGQALSLAENKVPSGHQLAIFLSLSDSQTVAHAVVVLEAR--------PE
         <tr>
             <td rowspan=5>Cluster #5</td>
             <td rowspan=5>5</td>
-            <td rowspan=1>WP_066775133.1</td>
-            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>WP_066767745.1</td>
+            <td rowspan=1>L-threonylcarbamoyladenylate synthase </td>
             <td rowspan=1>Нет</td>
             <td rowspan=1>650, 752, 980, 3428...</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_013047256.1</td>
-            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>WP_013045563.1</td>
+            <td rowspan=1>L-threonylcarbamoyladenylate synthase </td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>13713, 883, 698</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_106874161.1</td>
-            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>WP_106874598.1</td>
+            <td rowspan=1>L-threonylcarbamoyladenylate synthase </td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_006996807.1</td>
-            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>WP_011281810.1</td>
+            <td rowspan=1>L-threonylcarbamoyladenylate synthase</td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_085784875.1</td>
-            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>WP_085783836.1</td>
+            <td rowspan=1>L-threonylcarbamoyladenylate synthase </td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
@@ -425,32 +420,32 @@ IMVTNDPQGAPYITLTGQALSLAENKVPSGHQLAIFLSLSDSQTVAHAVVVLEAR--------PE
         <tr>
             <td rowspan=5>Cluster #6</td>
             <td rowspan=5>5</td>
-            <td rowspan=1>WP_066775133.1</td>
-            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>WP_066774291.1</td>
+            <td rowspan=1>50S ribosomal protein L16 </td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>980, 783, 3428, 13713</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_013047256.1</td>
-            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>WP_013047267.1</td>
+            <td rowspan=1>50S ribosomal protein L16 </td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>883, 908</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_106874161.1</td>
-            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>WP_106874576.1</td>
+            <td rowspan=1>50S ribosomal protein L16 </td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_006996807.1</td>
-            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>WP_006996818.1</td>
+            <td rowspan=1>50S ribosomal protein L16 </td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_085784875.1</td>
-            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>WP_085784886.1</td>
+            <td rowspan=1>50S ribosomal protein L16 </td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
@@ -459,32 +454,32 @@ IMVTNDPQGAPYITLTGQALSLAENKVPSGHQLAIFLSLSDSQTVAHAVVVLEAR--------PE
         <tr>
             <td rowspan=5>Cluster #7</td>
             <td rowspan=5>5</td>
-            <td rowspan=1>WP_066775133.1</td>
-            <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
+            <td rowspan=1>WP_066767064.1</td>
+            <td rowspan=1>holo-ACP synthase</td>
             <td rowspan=1>Нет</td>
             <td rowspan=1>783, 3403, 3428</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_013047256.1</td>
-            <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
+            <td rowspan=1>WP_013045405.1</td>
+            <td rowspan=1>holo-ACP synthase</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>908, 848, 705</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_106874161.1</td>
-            <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
+            <td rowspan=1>WP_106874021.1</td>
+            <td rowspan=1>holo-ACP synthase</td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_006996807.1</td>
-            <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
+            <td rowspan=1>WP_006996870.1</td>
+            <td rowspan=1>holo-ACP synthase</td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_085784875.1</td>
-            <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
+            <td rowspan=1>WP_085784762.1</td>
+            <td rowspan=1>holo-ACP synthase</td>
             <td rowspan=1>нет</td>
             <td rowspan=1>-</td>
         </tr>
